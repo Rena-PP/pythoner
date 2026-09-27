@@ -1,0 +1,5 @@
+procps
+mc
+htop
+iputils-ping
+git
